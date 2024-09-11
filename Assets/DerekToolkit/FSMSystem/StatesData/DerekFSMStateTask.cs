@@ -1,9 +1,8 @@
 ﻿using UnityEngine;
 
-namespace DerekStatesData
+namespace DerekToolkit.FSMSystem
 {
-    []
-    public class DerekFSMStateTaske : ScriptableObject
+    public class DerekFSMStateTask : ScriptableObject
     {
         public virtual void OnTaskBegin()
         {
@@ -11,6 +10,11 @@ namespace DerekStatesData
         }
 
         public virtual void OnTaskUpdate()
+        {
+            
+        }
+        
+        public virtual void OnTaskFixedUpdate()
         {
             
         }

@@ -42,11 +42,14 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\UBehaviourTreesTaskNode.cs" />
+     <Compile Include="Assets\DerekToolkit\GeneralTool\StateBase.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\DefaultBehavioursTreesTask\UBehaviourTreesTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Composite\UMonitorComposite.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\StatesData\DerekFSMStateBase.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\DefaultFSMTask\DebugLogFSMTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\EventCenter\EventCenter.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\ObjectPool\Interfaces\IPoolGameObject.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\DerekFSMStateTasks\DTFsmDebugTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\Interfaces\IBehaviourTreesTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\DefaultBehavioursTreesTask\UBehaviourTreesMonoTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\UBehaviourTrees.cs" />
@@ -56,6 +59,7 @@
      <Compile Include="Assets\Sample\FSM\FSMTest.cs" />
      <Compile Include="Assets\Sample\TimerTest\TimerTest.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\Enumerations\EBehaviourProcessState.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\FSMTree.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Decorator\URepeatDecorator.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Composite\UParallelComposite.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\Base\Interfaces\IFSMTask.cs" />
@@ -68,6 +72,7 @@
      <Compile Include="Assets\DerekToolkit\BuffSystem\BuffBase.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\ObjectPool\PoolGameObject.cs" />
      <Compile Include="Assets\Sample\ObjectPool\CubeGO.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\StatesData\DerekFSMStateTask.cs" />
      <Compile Include="Assets\Sample\SingletonTest\USingletonMonoTest.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\Singleton\USingleton.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\EventCenter\EventLib\IBaseEvent.cs" />
@@ -85,12 +90,14 @@
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Composite\UActiveSelectComposite.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\ObjectPool\VectorGameObjectPool.cs" />
      <Compile Include="Assets\Sample\EventCenter\Publisher.cs" />
+     <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\Base\TestTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\UFSMController.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\UComposite.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\ObjectPool\Interfaces\IGameObjectPool.cs" />
      <Compile Include="Assets\DerekToolkit\CustomAttribute\ReadOnlyAttribute.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\UBehaviourMonoNode.cs" />
-     <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\Base\TestTask.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\StatesData\DerekFSMSwitchCondition.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\DerekFSMConditions\DTFsmKeyPressCondition.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Sample\FSM" />
      <None Include="Library\PackageCache\com.unity.modules.subsystems@1.0.0\package.json" />
@@ -105,11 +112,13 @@
      <Folder Include="Library\PackageCache\com.unity.modules.animation@1.0.0" />
      <Folder Include="Assets\DerekToolkit\Scripts" />
      <None Include="Library\PackageCache\com.unity.ugui@1.0.0\package.json" />
+     <Folder Include="Assets\FSMTest\Conditions" />
      <Folder Include="Library\PackageCache\com.unity.modules.xr@1.0.0" />
      <Folder Include="Assets\DerekToolkit\BuffSystem" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\DefaultBehavioursTreesTask" />
      <None Include="Library\PackageCache\com.unity.modules.assetbundle@1.0.0\package.json" />
      <Folder Include="Assets\Fantasy Skybox FREE\Panoramics\FS013" />
+     <Folder Include="Assets\DerekToolkit\FSMSystem\DerekFSMConditions" />
      <None Include="Library\PackageCache\com.unity.modules.imgui@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.modules.tilemap@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.modules.assetbundle@1.0.0" />
@@ -144,6 +153,7 @@
      <Folder Include="Assets\DerekToolkit\CustomAttribute" />
      <Folder Include="Library\PackageCache\com.unity.modules.vr@1.0.0" />
      <Folder Include="Library\PackageCache\com.unity.modules.physics2d@1.0.0" />
+     <Folder Include="Assets\DerekToolkit\FSMSystem\StatesData" />
      <None Include="Library\PackageCache\com.unity.modules.particlesystem@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.modules.wind@1.0.0" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\ObjectPool" />
@@ -165,6 +175,8 @@
      <Folder Include="Library\PackageCache\com.unity.modules.ui@1.0.0" />
      <Folder Include="Assets\Fantasy Skybox FREE\Cubemaps\Classic" />
      <Folder Include="Library\PackageCache\com.unity.modules.androidjni@1.0.0" />
+     <Folder Include="Assets\DerekToolkit\FSMSystem\DerekFSMStateTasks" />
+     <Folder Include="Assets\FSMTest" />
      <None Include="Library\PackageCache\com.unity.modules.audio@1.0.0\package.json" />
      <Folder Include="Assets\Sample\ObjectPool" />
      <None Include="Library\PackageCache\com.unity.modules.physics@1.0.0\package.json" />
@@ -174,6 +186,7 @@
      <Folder Include="Assets\DerekToolkit\GeneralTool" />
      <Folder Include="Assets\Fantasy Skybox FREE\Panoramics\FS017" />
      <None Include="Assets\Shaders\Built-In\DerekPBRShader.shader" />
+     <Folder Include="Assets\FSMTest\Task" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\Singleton" />
      <None Include="Library\PackageCache\com.unity.modules.uielementsnative@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0\package.json" />
@@ -206,6 +219,7 @@
      <None Include="Library\PackageCache\com.unity.modules.animation@1.0.0\package.json" />
      <Folder Include="Assets\PBR" />
      <Folder Include="Library\PackageCache\com.unity.modules.uielementsnative@1.0.0" />
+     <Folder Include="Assets\DerekToolkit\FSMSystem" />
      <Folder Include="Assets\Fantasy Skybox FREE" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\EventCenter" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0\package.json" />

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61fc97e5c5ded4e4a9c4249479f82ea6, type: 3}
+  m_Name: TestA
+  m_EditorClassIdentifier: 
+  stateName: TestA
+  enterConditions: []
+  childStates: []
+  stateTask: {fileID: 11400000, guid: a107f3439f51e62429f3bb9f64d0f519, type: 2}
+  transition:
+  - destinationName: TestB
+    exitConditions:
+    - {fileID: 11400000, guid: 0631fb49ac4f1c24ea2bd10275baac5d, type: 2}
