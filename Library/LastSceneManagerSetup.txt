@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Sample/SampleScene.unity
+- path: Assets/Sample/HFSMTest/HFSMTest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a54a03adc47d204289ca900edcb069f, type: 3}
+  m_Name: FSMRootStateDebugTest
+  m_EditorClassIdentifier: 
+  fsmBaseStates:
+  - stateName: Debug01
+    enterConditions: []
+    task: {fileID: 11400000, guid: 7a26b69aa65a64f41b87620bbce918ef, type: 2}
+    transitions:
+    - trigger: 1
+      destination: Debug02
+      conditions: []
+  - stateName: Debug02
+    enterConditions: []
+    task: {fileID: 11400000, guid: c25bb3c109d18304c83ba03d66016871, type: 2}
+    transitions: []

@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp\</OutputPath>
-    <DefineConstants>UNITY_2021_3_20;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;UNITY_UGP_API;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_IG;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_20;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;UNITY_UGP_API;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_NVIDIA;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_IG;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -41,65 +41,84 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\DerekToolkit\FSMSystem\Interfaces\IFSMTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\UBehaviourTreesTaskNode.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\Base\FSMBaseState.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\Interfaces\IFSMTransition.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\StateBase.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\Interfaces\IHFSMTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\DefaultBehavioursTreesTask\UBehaviourTreesTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Composite\UMonitorComposite.cs" />
-     <Compile Include="Assets\DerekToolkit\FSMSystem\StatesData\DerekFSMStateBase.cs" />
-     <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\DefaultFSMTask\DebugLogFSMTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\EventCenter\EventCenter.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\ObjectPool\Interfaces\IPoolGameObject.cs" />
-     <Compile Include="Assets\DerekToolkit\FSMSystem\DerekFSMStateTasks\DTFsmDebugTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\Interfaces\IBehaviourTreesTask.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\HFSMController.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\Base\HFSMBaseTask.cs" />
+     <Compile Include="Assets\Sample\FSMTest\DerekPlayerAnimationController.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\DefaultBehavioursTreesTask\UBehaviourTreesMonoTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\UBehaviourTrees.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Composite\USequenceComposite.cs" />
+     <Compile Include="Assets\DerekToolkit\CustomProperty\ScriptableObjectEditor.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Composite\USelectComposite.cs" />
      <Compile Include="Assets\Sample\ObjectPool\CubeManager.cs" />
-     <Compile Include="Assets\Sample\FSM\FSMTest.cs" />
      <Compile Include="Assets\Sample\TimerTest\TimerTest.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\Interfaces\IFSMState.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\Base\HFSMState.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\FSMStateTask\FSM_DebugTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\Enumerations\EBehaviourProcessState.cs" />
-     <Compile Include="Assets\DerekToolkit\FSMSystem\FSMTree.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\Conditions\HFSM_KeyPressedCondition.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Decorator\URepeatDecorator.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Composite\UParallelComposite.cs" />
-     <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\Base\Interfaces\IFSMTask.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\HFSMStateTask\HFSM_DebugOnTickTask.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\Base\FSMBaseCondition.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\Conditions\FSM_Condition_HasMoveVector.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\FSMStateTask\FSM_ActionTask.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\Base\FSMRootState.cs" />
+     <Compile Include="Assets\DerekToolkit\CustomProperty\Drawer\ExpandableScriptableObjectDrawer.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\UDecorator.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\DefaultBehavioursTreesTask\DebugLogTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Composite\UFilterComposite.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\UBehaviourNode.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\Singleton\USingletonMono.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\Enumerations\EParallelBehaviourPolicy.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\HFSMStateTask\HFSM_DebugTask.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\Interfaces\IHFSMState.cs" />
      <Compile Include="Assets\DerekToolkit\BuffSystem\BuffBase.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\Base\HFSMStateBase.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\ObjectPool\PoolGameObject.cs" />
      <Compile Include="Assets\Sample\ObjectPool\CubeGO.cs" />
-     <Compile Include="Assets\DerekToolkit\FSMSystem\StatesData\DerekFSMStateTask.cs" />
      <Compile Include="Assets\Sample\SingletonTest\USingletonMonoTest.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\Singleton\USingleton.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\EventCenter\EventLib\IBaseEvent.cs" />
-     <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\Base\Task\UFSMTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\Timer\UDerekTimer.cs" />
-     <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\UFSMState.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\Conditions\FSM_Condition_HasNoMoveVector.cs" />
+     <Compile Include="Assets\Sample\FSMTest\DerekPlayerController.cs" />
      <Compile Include="Assets\Sample\BehaviourTreesTest\BTTest0.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\UBehaviourTreesBuilder.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\EventCenter\EventLib\EventInfoLibrary.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\Base\FSMBaseTask.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Decorator\UInvertDecorator.cs" />
      <Compile Include="Assets\DerekToolkit\BuffSystem\Base\BuffData.cs" />
      <Compile Include="Assets\Sample\SingletonTest\SingletonMonoDebuger.cs" />
-     <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\Base\Task\UFSMMonoTask.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\Conditions\HFSM_BaseCondition.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\Base\HFSMStateMachine.cs" />
      <Compile Include="Assets\Sample\EventCenter\Subscriber.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Composite\UActiveSelectComposite.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\ObjectPool\VectorGameObjectPool.cs" />
      <Compile Include="Assets\Sample\EventCenter\Publisher.cs" />
-     <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\Base\TestTask.cs" />
-     <Compile Include="Assets\DerekToolkit\GeneralTool\FSM\UFSMController.cs" />
+     <Compile Include="Assets\DerekToolkit\ExcelRW\ExcelReadTest.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\Interfaces\IHFSMTransition.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\FSMController.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\UComposite.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\Base\FSMTransition.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\ObjectPool\Interfaces\IGameObjectPool.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\Base\HFSMBaseCondition.cs" />
      <Compile Include="Assets\DerekToolkit\CustomAttribute\ReadOnlyAttribute.cs" />
+     <Compile Include="Assets\DerekToolkit\HFSMSystem\Base\HFSMTransition.cs" />
+     <Compile Include="Assets\DerekToolkit\CustomProperty\ExpandableScriptableObjectAttribute.cs" />
      <Compile Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\UBehaviourMonoNode.cs" />
-     <Compile Include="Assets\DerekToolkit\FSMSystem\StatesData\DerekFSMSwitchCondition.cs" />
-     <Compile Include="Assets\DerekToolkit\FSMSystem\DerekFSMConditions\DTFsmKeyPressCondition.cs" />
+     <Compile Include="Assets\DerekToolkit\FSMSystem\FSMStateTask\FSM_DebugInCertainTimeTask.cs" />
      <Folder Include="Assets" />
-     <Folder Include="Assets\Sample\FSM" />
      <None Include="Library\PackageCache\com.unity.modules.subsystems@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.modules.jsonserialize@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.modules.screencapture@1.0.0\package.json" />
@@ -107,56 +126,67 @@
      <Folder Include="Assets\Shaders\Built-In" />
      <Folder Include="Library\PackageCache\com.unity.modules.imgui@1.0.0" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0\package.json" />
-     <Folder Include="Assets\Fantasy Skybox FREE\Panoramics" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE\Panoramics" />
+     <Folder Include="Assets\Sample\HFSMTest\Task" />
      <None Include="Library\PackageCache\com.unity.modules.ai@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.modules.animation@1.0.0" />
-     <Folder Include="Assets\DerekToolkit\Scripts" />
      <None Include="Library\PackageCache\com.unity.ugui@1.0.0\package.json" />
-     <Folder Include="Assets\FSMTest\Conditions" />
      <Folder Include="Library\PackageCache\com.unity.modules.xr@1.0.0" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias\Basic Motions\Textures" />
      <Folder Include="Assets\DerekToolkit\BuffSystem" />
+     <Folder Include="Assets\Sample\HFSMTest\StateMachien" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\DefaultBehavioursTreesTask" />
      <None Include="Library\PackageCache\com.unity.modules.assetbundle@1.0.0\package.json" />
-     <Folder Include="Assets\Fantasy Skybox FREE\Panoramics\FS013" />
-     <Folder Include="Assets\DerekToolkit\FSMSystem\DerekFSMConditions" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE\Panoramics\FS013" />
      <None Include="Library\PackageCache\com.unity.modules.imgui@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.modules.tilemap@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.modules.assetbundle@1.0.0" />
+     <Folder Include="Assets\Sample\FSMTest\FSMSO" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\Interfaces" />
+     <Folder Include="Assets\ExcelData" />
      <Folder Include="Assets\DerekToolkit" />
-     <None Include="Assets\Fantasy Skybox FREE\Readme.txt" />
+     <None Include="Assets\TestArtAssets\Fantasy Skybox FREE\Readme.txt" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias\Basic Motions\Models" />
+     <Folder Include="Assets\DerekToolkit\CustomProperty\Drawer" />
      <None Include="Library\PackageCache\com.unity.modules.terrainphysics@1.0.0\package.json" />
      <Folder Include="Assets\Sample\SingletonTest" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base\Enumerations" />
+     <Folder Include="Assets\TestArtAssets" />
      <Folder Include="Library\PackageCache\com.unity.modules.screencapture@1.0.0" />
-     <Folder Include="Assets\Fantasy Skybox FREE\Cubemaps\FS002" />
-     <Folder Include="Assets\Fantasy Skybox FREE\Cubemaps" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE\Cubemaps\FS002" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE\Cubemaps" />
      <Folder Include="Library\PackageCache\com.unity.modules.cloth@1.0.0" />
-     <None Include="Assets\Fantasy Skybox FREE\ReleaseNotes.txt" />
+     <None Include="Assets\TestArtAssets\Fantasy Skybox FREE\ReleaseNotes.txt" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.feature.development@1.0.1" />
+     <Folder Include="Assets\DerekToolkit\HFSMSystem\Conditions" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\ObjectPool\Interfaces" />
-     <Folder Include="Assets\DerekToolkit\GeneralTool\FSM\Base\Interfaces" />
+     <Folder Include="Assets\Sample\HFSMTest\State" />
      <Folder Include="Library\PackageCache\com.unity.modules.imageconversion@1.0.0" />
      <Folder Include="Library\PackageCache\com.unity.modules.terrainphysics@1.0.0" />
      <None Include="Library\PackageCache\com.unity.modules.imageconversion@1.0.0\package.json" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias\Basic Motions\Animations\Social\Conversation" />
      <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0" />
      <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0" />
      <None Include="Library\PackageCache\com.unity.feature.development@1.0.1\package.json" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias\Basic Motions\Animations\Movement" />
      <None Include="Library\PackageCache\com.unity.modules.unityanalytics@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.modules.subsystems@1.0.0" />
-     <Folder Include="Assets\DerekToolkit\GeneralTool\FSM\DefaultFSMTask" />
+     <Folder Include="Assets\DerekToolkit\Plugins" />
      <None Include="Library\PackageCache\com.unity.modules.video@1.0.0\package.json" />
-     <Folder Include="Assets\DerekToolkit\GeneralTool\FSM\Base" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias\Basic Motions\Materials" />
      <Folder Include="Library\PackageCache\com.unity.modules.unityanalytics@1.0.0" />
      <Folder Include="Library\PackageCache\com.unity.modules.physics@1.0.0" />
      <Folder Include="Assets\DerekToolkit\CustomAttribute" />
      <Folder Include="Library\PackageCache\com.unity.modules.vr@1.0.0" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias\Basic Motions\AnimationControllers" />
      <Folder Include="Library\PackageCache\com.unity.modules.physics2d@1.0.0" />
-     <Folder Include="Assets\DerekToolkit\FSMSystem\StatesData" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias\Basic Motions\Animations\Social" />
+     <Folder Include="Assets\Sample\FSMTest" />
      <None Include="Library\PackageCache\com.unity.modules.particlesystem@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.modules.wind@1.0.0" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\ObjectPool" />
+     <Folder Include="Assets\DerekToolkit\CustomProperty" />
      <Folder Include="Assets\Sample\EventCenter" />
      <None Include="Library\PackageCache\com.unity.modules.physics2d@1.0.0\package.json" />
      <Folder Include="Assets\Sample\BehaviourTreesTest" />
@@ -165,18 +195,22 @@
      <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0" />
      <Folder Include="Library\PackageCache\com.unity.modules.particlesystem@1.0.0" />
      <Folder Include="Assets\Sample\TimerTest" />
+     <Folder Include="Assets\DerekToolkit\HFSMSystem\Interfaces" />
+     <Folder Include="Assets\DerekToolkit\ExcelRW" />
      <None Include="Library\PackageCache\com.unity.modules.wind@1.0.0\package.json" />
-     <Folder Include="Assets\Fantasy Skybox FREE\Panoramics\FS002" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE\Panoramics\FS002" />
      <Folder Include="Library\PackageCache\com.unity.ugui@1.0.0\Tests" />
      <None Include="Library\PackageCache\com.unity.modules.umbra@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.modules.tilemap@1.0.0" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias\Basic Motions\Prefabs" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\EventCenter\EventLib" />
-     <Folder Include="Assets\Fantasy Skybox FREE\Panoramics\FS003" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE\Panoramics\FS003" />
      <Folder Include="Library\PackageCache\com.unity.modules.ui@1.0.0" />
-     <Folder Include="Assets\Fantasy Skybox FREE\Cubemaps\Classic" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE\Cubemaps\Classic" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias\Basic Motions\Animations\Idles" />
      <Folder Include="Library\PackageCache\com.unity.modules.androidjni@1.0.0" />
-     <Folder Include="Assets\DerekToolkit\FSMSystem\DerekFSMStateTasks" />
-     <Folder Include="Assets\FSMTest" />
+     <Folder Include="Assets\Sample\FSMTest\FSMSO\Task" />
+     <Folder Include="Assets\Sample\HFSMTest" />
      <None Include="Library\PackageCache\com.unity.modules.audio@1.0.0\package.json" />
      <Folder Include="Assets\Sample\ObjectPool" />
      <None Include="Library\PackageCache\com.unity.modules.physics@1.0.0\package.json" />
@@ -184,31 +218,36 @@
      <Folder Include="Assets\DerekToolkit\GeneralTool\Timer" />
      <None Include="Library\PackageCache\com.unity.modules.vehicles@1.0.0\package.json" />
      <Folder Include="Assets\DerekToolkit\GeneralTool" />
-     <Folder Include="Assets\Fantasy Skybox FREE\Panoramics\FS017" />
+     <Folder Include="Assets\DerekToolkit\FSMSystem\Base" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE\Panoramics\FS017" />
      <None Include="Assets\Shaders\Built-In\DerekPBRShader.shader" />
-     <Folder Include="Assets\FSMTest\Task" />
+     <Folder Include="Assets\Sample\FSMTest\Anim" />
+     <Folder Include="Assets\Sample\FSMTest\FSMSO\Task\Debugtest" />
+     <Folder Include="Assets\DerekToolkit\FSMSystem\Interfaces" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\Singleton" />
      <None Include="Library\PackageCache\com.unity.modules.uielementsnative@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0\package.json" />
-     <Folder Include="Assets\DerekToolkit\GeneralTool\FSM\Base\Task" />
      <Folder Include="Assets\Shaders" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0\package.json" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Base" />
-     <Folder Include="Assets\Fantasy Skybox FREE\Cubemaps\FS002\Images" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE\Cubemaps\FS002\Images" />
+     <Folder Include="Assets\Sample\FSMTest\FSMSO\StatesTree" />
+     <Folder Include="Assets\DerekToolkit\FSMSystem" />
      <Folder Include="Library\PackageCache\com.unity.modules.vehicles@1.0.0" />
      <None Include="Library\PackageCache\com.unity.modules.xr@1.0.0\package.json" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias\Basic Motions" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees\Decorator" />
      <Folder Include="Library\PackageCache\com.unity.modules.umbra@1.0.0" />
-     <Folder Include="Assets\DerekToolkit\GeneralTool\FSM" />
      <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0" />
      <None Include="Library\PackageCache\com.unity.modules.director@1.0.0\package.json" />
      <Folder Include="Library\PackageCache\com.unity.modules.jsonserialize@1.0.0" />
+     <Folder Include="Assets\Sample\FSMTest\Anim\Animations" />
      <Folder Include="Library\PackageCache\com.unity.modules.director@1.0.0" />
      <Folder Include="Library\PackageCache\com.unity.modules.audio@1.0.0" />
      <None Include="Library\PackageCache\com.unity.modules.terrain@1.0.0\package.json" />
-     <Folder Include="Assets\Fantasy Skybox FREE\Scenes" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE\Scenes" />
      <None Include="Library\PackageCache\com.unity.modules.androidjni@1.0.0\package.json" />
-     <Folder Include="Assets\Fantasy Skybox FREE\Scenes\Demo with terrain" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE\Scenes\Demo with terrain" />
      <Folder Include="Assets\DerekToolkit\BuffSystem\Base" />
      <Folder Include="Library\PackageCache\com.unity.modules.video@1.0.0" />
      <Folder Include="Library\PackageCache\com.unity.modules.ai@1.0.0" />
@@ -216,17 +255,25 @@
      <Folder Include="Assets\Sample" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\BehaviourTrees" />
      <Folder Include="Library\PackageCache\com.unity.modules.terrain@1.0.0" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias\Basic Motions\Animations" />
      <None Include="Library\PackageCache\com.unity.modules.animation@1.0.0\package.json" />
      <Folder Include="Assets\PBR" />
      <Folder Include="Library\PackageCache\com.unity.modules.uielementsnative@1.0.0" />
-     <Folder Include="Assets\DerekToolkit\FSMSystem" />
-     <Folder Include="Assets\Fantasy Skybox FREE" />
+     <Folder Include="Assets\DerekToolkit\HFSMSystem\HFSMStateTask" />
+     <Folder Include="Assets\DerekToolkit\FSMSystem\Conditions" />
+     <Folder Include="Assets\DerekToolkit\HFSMSystem" />
+     <Folder Include="Assets\TestArtAssets\Fantasy Skybox FREE" />
+     <Folder Include="Assets\DerekToolkit\FSMSystem\FSMStateTask" />
      <Folder Include="Assets\DerekToolkit\GeneralTool\EventCenter" />
      <None Include="Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0\package.json" />
      <None Include="Library\PackageCache\com.unity.modules.uielements@1.0.0\package.json" />
+     <Folder Include="Assets\TestArtAssets\Kevin Iglesias" />
      <Folder Include="Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0" />
      <Folder Include="Library\PackageCache\com.unity.ugui@1.0.0" />
+     <Folder Include="Assets\DerekToolkit\HFSMSystem\Base" />
+     <Folder Include="Assets\Sample\FSMTest\FSMSO\Conditions" />
      <None Include="Library\PackageCache\com.unity.modules.ui@1.0.0\package.json" />
+     <Folder Include="Assets\Sample\HFSMTest\Transitions" />
      <Reference Include="UnityEngine">
      <HintPath>D:\ProgramFiles\Unity\2021.3.20f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
      </Reference>
@@ -476,11 +523,20 @@
      <Reference Include="UnityEditor.UnityConnectModule">
      <HintPath>D:\ProgramFiles\Unity\2021.3.20f1c1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
+     <Reference Include="I18N.West">
+     <HintPath>E:\ProjectFiles\Unity\DerekToolkit\Assets\DerekToolkit\Plugins\I18N.West.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
      <HintPath>E:\ProjectFiles\Unity\DerekToolkit\Library\PackageCache\com.unity.visualscripting@1.8.0\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
+     <Reference Include="I18N">
+     <HintPath>E:\ProjectFiles\Unity\DerekToolkit\Assets\DerekToolkit\Plugins\I18N.dll</HintPath>
+     </Reference>
      <Reference Include="ReportGeneratorMerged">
      <HintPath>E:\ProjectFiles\Unity\DerekToolkit\Library\PackageCache\com.unity.testtools.codecoverage@1.2.2\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
+     </Reference>
+     <Reference Include="EPPlus">
+     <HintPath>E:\ProjectFiles\Unity\DerekToolkit\Assets\DerekToolkit\Plugins\EPPlus.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.iOS.Extensions.Xcode">
      <HintPath>D:\ProgramFiles\Unity\2021.3.20f1c1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -905,11 +961,14 @@
      <Reference Include="Unity.VisualScripting.Flow">
      <HintPath>E:\ProjectFiles\Unity\DerekToolkit\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>E:\ProjectFiles\Unity\DerekToolkit\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+     <Reference Include="Unity.InputSystem">
+     <HintPath>E:\ProjectFiles\Unity\DerekToolkit\Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
      <HintPath>E:\ProjectFiles\Unity\DerekToolkit\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.PlasticSCM.Editor">
+     <HintPath>E:\ProjectFiles\Unity\DerekToolkit\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TestTools.CodeCoverage.Editor">
      <HintPath>E:\ProjectFiles\Unity\DerekToolkit\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>

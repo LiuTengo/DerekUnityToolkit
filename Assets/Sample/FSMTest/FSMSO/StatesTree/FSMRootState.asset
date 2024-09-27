@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a54a03adc47d204289ca900edcb069f, type: 3}
+  m_Name: FSMRootState
+  m_EditorClassIdentifier: 
+  fsmBaseStates:
+  - stateName: IdleState
+    enterConditions: []
+    task: {fileID: 11400000, guid: 6f7493d4445885148b489391aacdb69e, type: 2}
+    transitions:
+    - trigger: 0
+      destination: WalkState
+      conditions:
+      - {fileID: 11400000, guid: 6697db1e59a3a6a4fa3e9187d9689a60, type: 2}
+  - stateName: WalkState
+    enterConditions: []
+    task: {fileID: 11400000, guid: a37fd859c52ef944283a8140d468d9fa, type: 2}
+    transitions:
+    - trigger: 0
+      destination: IdleState
+      conditions:
+      - {fileID: 11400000, guid: c561b5f98eb529e439dad59fa12f4d25, type: 2}
