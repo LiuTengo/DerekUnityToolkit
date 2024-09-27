@@ -184,50 +184,6 @@ namespace DerekToolkit.HFSMSystem.Base
 
             return $"StateMachine_{stateName}" + ". \n" + m_CurrentState.GetCurrentStateName();
         }
-
-        public HFSMStateMachine FindAncestorStateMachine(HFSMState start,HFSMState target)
-        {
-            if (m_States.ContainsValue(start) && m_States.ContainsValue(target))
-            {
-                return this;
-            }
-            
-            HFSMStateMachine startSM = null;
-            HFSMStateMachine targetSM = null;
-            foreach (var s in m_StateMachines)
-            {
-                startSM = s.Value.FindAncestorStateMachine(start,target);
-                if (startSM != null) 
-                {
-                    break;
-                }
-            }
-            foreach (var s in m_StateMachines)
-            {
-                targetSM = s.Value.FindAncestorStateMachine(start,target);
-                if (targetSM != null) 
-                {
-                    break;
-                }
-            }
-
-            if (startSM != null && targetSM != null)
-            {
-                return this;
-            }
-
-            if (startSM != null && targetSM == null)
-            {
-                return startSM;
-            }
-
-            if (startSM == null && targetSM != null)
-            {
-                return targetSM;
-            }
-
-            return null;
-        }
         
         /// <summary>
         /// 检查该状态机有无目标状态

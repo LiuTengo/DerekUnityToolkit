@@ -67,19 +67,6 @@ namespace DerekToolkit.HFSMSystem
             //更新运行状态
             m_PeekState = m_RunningStates.Peek();
         }
-
-        private HFSMStateMachine FindAncestorStateMachine(HFSMState target,Stack<HFSMStateBase> copyRunningStates)
-        {
-            copyRunningStates.Pop(); //弹出栈顶状态节点
-            var sm = (HFSMStateMachine)copyRunningStates.Peek();
-            while (sm != null && !sm.ContainState(target))
-            {
-                copyRunningStates.Pop();
-                sm = (HFSMStateMachine)copyRunningStates.Peek();
-            }
-
-            return sm;
-        }
         
 #if UNITY_EDITOR
         private void OnGUI()
